@@ -6,5 +6,5 @@
 ---
 
 ## Домашнее задание №1
-* Ноутбук с решением: [`HW1/HW1.ipynb`](./HW1/HW1.ipynb)
+* Ноутбук с решением: [`HW1/dz1_maksim_leontev_p1p2p3.ipynb`](HW1/dz1_maksim_leontev_p1p2p3.ipynb)
 * Реализованы задания 1, 2 и 3
