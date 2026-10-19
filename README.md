@@ -14,8 +14,8 @@
 
 ## Домашнее задание №3 (Асинхронность в Python)
 
-* `main.py` — эндпоинт `POST /calculate/` и корутина обработки чисел
-* `schemas.py` — Pydantic-схемы запроса и ответа
+* [`HW3/main.py`](HW3/main.py) — эндпоинт `POST /calculate/` и корутина обработки чисел
+* [`HW3/schemas.py`](HW3/schemas.py) — Pydantic-схемы запроса и ответа
 
 ### Инструкция по запуску:
 
